@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "asciiart-logo": "^0.2.7",
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
     "mysql2": "^3.6.0"
   }
 }
